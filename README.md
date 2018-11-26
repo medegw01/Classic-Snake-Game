@@ -16,7 +16,7 @@ The goal of this game is to score as much point as possible or get the snake as 
 
 The game end when the EU goes to zero or when snake collides with itself.
 #### Function flow chat:
-
+![alt text](https://github.com/medegw01/Classic-Snake-Game/blob/master/flowdiagram.png  "function call")<br/>
 #### Compile:
 type the following in the terminal;
 >make
@@ -28,6 +28,6 @@ type:
 Follow the instruc5tions on the screen.
 #### Video Demo :smiley:
 Please click link below <br/>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2_fUEtnxpiQ/0.jpg)](https://www.youtube.com/watch?v=2_fUEtnxpiQ&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YlxXKYPhucI/0.jpg)](https://www.youtube.com/watch?v=YlxXKYPhucI&feature=youtu.be)
 
 
